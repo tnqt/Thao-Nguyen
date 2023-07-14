@@ -1,1 +1,1 @@
-I have two years and a half of mobile app development experience with Flutter and Swift.
+I have over two and a half years of mobile app development experience, specializing in Flutter and Swift. My journey as a developer has been driven by a deep passion for learning and explore various technologies and domains.

@@ -1,3 +1,4 @@
+![Thao Nguyen Banner](./assets/programmer-banner.jpg)
 <h2> 👋 Hello everyone! I'm Thao Nguyen</h2>
 <!--  👋 &nbsp;Hello every one! I'm Thao Nguyen -->
 

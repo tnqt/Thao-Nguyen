@@ -1,7 +1,5 @@
 <img src="./assets/Spring_Landscape.jpg" alt="Icon description" style="width: 1000px;height: 300px;">
 <h2> 👋 Hello everyone! I'm Thao Nguyen</h2>
-<!--  👋 &nbsp;Hello every one! I'm Thao Nguyen -->
-
 
 ### 👨🏻‍💻 &nbsp;About Me
 - 🔭 I am current working on **Mobile application**.

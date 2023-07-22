@@ -4,6 +4,7 @@
 
 
 ### 👨🏻‍💻 &nbsp;About Me
-I have over two and a half years of mobile app development experience, specializing in Flutter and Swift. 
-My journey as a developer has been driven by a deep passion for learning and explore various technologies and domains.
+- 🔭 I am current working on **Mobile application**.
+- 🌱 I’m currently learning **Full Stack Developement**.
+- 💡 I am looking forward to enhance my learning journey and apply my skills to solve real-life challenges.
 

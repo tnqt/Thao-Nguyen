@@ -6,4 +6,5 @@
 - 🌱 I’m currently learning **Full Stack Developement**.
 - 💡 I am looking forward to enhance my learning journey and apply my skills to solve real-life challenges.
 
-### 🛠 &nbsp;Tech Stack
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="azure" width="40" height="40"/> </a></p>

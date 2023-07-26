@@ -8,5 +8,11 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="azure" width="40" height="40"/> </a>
+  <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" alt="azure" width="42" height="42"/> </a>
  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="azure" width="42" height="42"/> </a>
+ <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="azure" width="42" height="42"/> </a>
+ <a href="https://firebase.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="azure" width="42" height="42"/> </a>
+ <a href="https://www.docker.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="azure" width="42" height="42"/> </a>
+ <a href="https://git-scm.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="azure" width="42" height="42"/> </a>
+
 </p>

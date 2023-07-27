@@ -14,5 +14,5 @@
  <a href="https://firebase.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="azure" width="42" height="42"/> </a>
  <a href="https://www.docker.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="azure" width="42" height="42"/> </a>
  <a href="https://git-scm.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="azure" width="42" height="42"/> </a>
-
 </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tnqt&show_icons=true&locale=en&layout=compact"  /></p>

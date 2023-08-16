@@ -2,7 +2,7 @@
 <h2> 👋 Hi, I'm Thao Nguyen</h2>
 
 ### 👨🏻‍💻 &nbsp;About Me
-- 🔭 I am current working on **Mobile application**.
+- 🔭 I am currently working on **Mobile application**.
 - 🌱 I’m currently learning **Full Stack Developement**.
 - 💡 I am looking forward to enhance my learning journey and apply my skills to solve real-life challenges.
 

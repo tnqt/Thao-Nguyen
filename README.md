@@ -3,7 +3,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 - 🔭 I am currently working on **Mobile application**.
-- 🌱 I am currently learning **Full Stack Developement**.
+- 🌱 I am currently learning Full Stack Developement.
 - 💡 I am looking forward to enhance my learning journey and apply my skills to solve real-life challenges.
 
 <h3 align="left">Languages and Tools:</h3>
